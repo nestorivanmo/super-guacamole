@@ -1,0 +1,2 @@
+# super-guacamole
+Example repo
